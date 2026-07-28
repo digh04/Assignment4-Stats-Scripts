@@ -12,4 +12,5 @@ __pycache__/
 # Ignore data files
 data/
 *.csv
-*.txt
+*.tx
+*.swp
